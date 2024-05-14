@@ -2,26 +2,34 @@
   <img src="https://github.com/edisonyls/edisonyls/assets/89026659/80c0e97b-a0df-4a53-b45d-ac7927aa5533" width="200">
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=edisonyls&label=Profile%20views&color=0e75b6&style=flat" alt="edisonyls" /> </p>
-
 ## About me
 
 I’m a recent graduate from the University of Melbourne with a Master’s degree in Software Engineering. During my time at university, I engaged in several projects, taking on roles that spanned front-end, back-end, and full-stack development.The excitement of solving complex problems and seeing my solutions streamline processes and enhance project outcomes is what drives my passion for coding. I am passionate about writing clean and efficient code, and I am ready to explore new challenges and enhance my skills. I am keen to expand my portfolio and engage in projects that are both innovative and impactful.
 
 ## Skill Set
-<p align="center">
-  <img src="https://github.com/edisonyls/edisonyls/assets/89026659/db7c7f13-d412-422e-a504-e4fc03370ce8" width="50" height="50">
-  <img src="https://github.com/edisonyls/edisonyls/assets/89026659/736f2e88-3510-41b1-999d-de25ba009ea7" width="50" height="50">
-  <img src="https://github.com/edisonyls/edisonyls/assets/89026659/e711b924-99b4-4373-ac6b-6cb4e2101001" width="30" height="50">
-  <img src="https://github.com/edisonyls/edisonyls/assets/89026659/3a062f1e-b7bd-4a0c-9c64-a89d294d6c58" width="50" height="50">
-  <img src="https://github.com/edisonyls/edisonyls/assets/89026659/12d3672f-aec3-4cf3-b32c-bcba405efa7e" width="50" height="50">
-  <img src="https://github.com/edisonyls/edisonyls/assets/89026659/746c49ee-3efb-4a06-a3cb-ee771db199cb" width="50" height="50">
-  <img src="https://github.com/edisonyls/edisonyls/assets/89026659/c9a41a37-50d3-4d49-a201-76441ed6383d" width="50" height="50">
-  <img src="https://github.com/edisonyls/edisonyls/assets/89026659/7a0bacb3-2b1c-497e-bc0a-51cc13088c18" width="50" height="50">
-  <img src="https://github.com/edisonyls/edisonyls/assets/89026659/95d940f3-7e07-49f7-9f9f-327e1e01a0f6" width="50" height="50">
-  <img src="https://github.com/edisonyls/edisonyls/assets/89026659/19473b79-79b8-4ea1-a563-40f12c835e6b" width="50" height="50">
-  <img src="https://github.com/edisonyls/edisonyls/assets/89026659/da4dc90d-20be-44e9-8a6f-ba43bfa2bd2c" width="50" height="50">
+<p align="left">
+  <img alt="Java" src="https://img.shields.io/badge/Java-8b008b?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-8b4513?style=flat-square&logo=Spring&logoColor=white" />
+  <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-001f3f?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2f4f4f?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-191970?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-556b2f?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-800000?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-4b0082?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-228b22?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="S3" src="https://img.shields.io/badge/AWS-S3-569A31" />
+  <img alt="EC2" src="https://img.shields.io/badge/AWS-EC2-FF9900" />
+  <img alt="CloutFront" src="https://img.shields.io/badge/AWS-CloudFront-146eb4" />
+  <img alt="Route53" src="https://img.shields.io/badge/AWS-Route53-FF9900" />
 </p>
+
 
 ## My Recent
 
@@ -36,23 +44,11 @@ I’m a recent graduate from the University of Melbourne with a Master’s degre
 #### 🏃‍♀ Daily routine
 - :coffee: Consume Coffee -> 💻 LeetCode -> 🚀 Project Development -> 🍳 Cook -> 💪 Gym -> More Coffee :coffee: :coffee: :coffee:
 
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edisonyls&" alt="edisonyls" />
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=edisonyls&label=Profile%20views&color=0e75b6&style=flat" alt="edisonyls" />
+</p>
 
-
-
-
-
-<!--
-**edisonyls/edisonyls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
