@@ -2,7 +2,7 @@
   <img src="https://github.com/edisonyls/edisonyls/assets/89026659/80c0e97b-a0df-4a53-b45d-ac7927aa5533" width="200">
 </p>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edisonyls&label=Profile%20views&color=0e75b6&style=flat" alt="edisonyls" /> </p>
 
 ## About me
 
