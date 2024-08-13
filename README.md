@@ -44,7 +44,8 @@ Never work for money. Work for passion.
 
 #### 🎯 I’m currently learning
 
-- .Net Core
+- .Net Core 8
+- LLM
 
 #### 🏃‍♀ Daily routine
 
