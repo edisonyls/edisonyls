@@ -48,7 +48,7 @@ Never work for money. Work for passion.
 
 #### 🏃‍♀ Daily routine
 
-- :coffee: Consume Coffee -> 💻 LeetCode -> 🚀 Project Development -> 🍳 Cook -> 💪 Gym -> More Coffee :coffee: :coffee: :coffee:
+- :coffee: Coffee -> 💻 Work Hard -> :coffee: :coffee: :coffee: More Coffee -> 🍳 Cook -> 💪 Gym -> 😪 Rest
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edisonyls&" alt="edisonyls" />
