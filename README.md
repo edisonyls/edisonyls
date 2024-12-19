@@ -44,7 +44,8 @@ Never work for money. Work for passion.
 
 #### 🎯 I’m currently learning
 
-- Linux Basics
+- Generative AI
+- Splunk
 
 #### 🏃‍♀ Daily routine
 
