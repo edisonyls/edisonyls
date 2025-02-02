@@ -45,7 +45,7 @@ Never work for money. Work for passion.
 #### 🎯 I’m currently learning
 
 - Generative AI
-- Splunk
+- AWS Solution Architect
 
 #### 🏃‍♀ Daily routine
 
