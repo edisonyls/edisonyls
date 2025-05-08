@@ -4,7 +4,7 @@
 
 ## About me
 
-I’m a recent graduate from the University of Melbourne with a Master’s degree in Software Engineering. During my time at university, I engaged in several projects, taking on roles that spanned front-end, back-end, and full-stack development.The excitement of solving complex problems and seeing my solutions streamline processes and enhance project outcomes is what drives my passion for coding. I am passionate about writing clean and efficient code, and I am ready to explore new challenges and enhance my skills. I am keen to expand my portfolio and engage in projects that are both innovative and impactful.
+I'm a software engineer passionate about cloud-native development, full-stack engineering, and DevOps. I enjoy building scalable, secure systems using modern technologies and clean architectural practices. My interests lie in solving real-world problems through thoughtful design, automation, and performance-focused solutions. Outside of work, I stay curious through personal projects, open-source contributions, and constant exploration of new tools and frameworks. Whether it's deploying infrastructure as code, crafting APIs, or enhancing development workflows, I’m driven by creating meaningful, reliable software that makes an impact.
 
 ## Lifetime Commitment
 
@@ -35,7 +35,7 @@ Never work for money. Work for passion.
   <img alt="Route53" src="https://img.shields.io/badge/AWS-Route53-FF9900" />
 </p>
 
-## My Recent
+## My Recent Activities
 
 #### 🧑🏻‍💻 I’m currently working on
 
@@ -45,7 +45,8 @@ Never work for money. Work for passion.
 #### 🎯 I’m currently learning
 
 - Generative AI
-- AWS Solution Architect
+- AWS Solution Architect Professional
+- EKS
 
 #### 🏃‍♀ Daily routine
 
