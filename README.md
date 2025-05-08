@@ -39,7 +39,7 @@ Never work for money. Work for passion.
 
 #### 🧑🏻‍💻 I’m currently working on
 
-- A personal project that is used to record the leetcode problems. You can visit my up-to-date deployment [here](https://www.ylslc.org). (backend is currently shutted down)
+- A personal project that is used to record the leetcode problems. You can visit my up-to-date deployment [here](https://ylslc.edisonyls.com).
 - A collaborative mobile application that we intended to integrate LLM technologies into creating reminders.
 
 #### 🎯 I’m currently learning
