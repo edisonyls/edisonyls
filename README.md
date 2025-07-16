@@ -40,7 +40,7 @@ Never work for money. Work for passion.
 #### 🧑🏻‍💻 I’m currently working on
 
 - A personal project that is used to record the leetcode problems. You can visit my up-to-date deployment [here](https://ylslc.edisonyls.com).
-- A collaborative mobile application that we intended to integrate LLM technologies into creating reminders.
+- A forecast of what guests want to fork into, so I called it Forkcast. Check it out here -> [ForkCast](https://forkcast.edisonyls.com)
 
 #### 🎯 I’m currently learning
 
