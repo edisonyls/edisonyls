@@ -44,9 +44,10 @@ Never work for money. Work for passion.
 
 #### 🎯 I’m currently learning
 
-- Generative AI
+- Streamlit
 - AWS Solution Architect Professional
-- EKS
+- Azure Solution Architect
+- Kubernetes
 
 #### 🏃‍♀ Daily routine
 
