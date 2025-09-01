@@ -44,7 +44,6 @@ Never work for money. Work for passion.
 
 #### 🎯 I’m currently learning
 
-- Streamlit
 - AWS Solution Architect Professional
 - Azure Solution Architect
 - Kubernetes
