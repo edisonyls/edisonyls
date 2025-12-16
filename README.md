@@ -41,6 +41,7 @@ Never work for money. Work for passion.
 
 - A personal project that is used to record the leetcode problems. You can visit my up-to-date deployment [here](https://ylslc.edisonyls.com).
 - A forecast of what guests want to fork into, so I called it Forkcast. Check it out here -> [ForkCast](https://forkcast.edisonyls.com)
+- A secret project named StrongHireLabs
 
 #### 🎯 I’m currently learning
 
