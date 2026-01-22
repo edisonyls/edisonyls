@@ -54,9 +54,5 @@ Never work for money. Work for passion.
 - :coffee: Coffee -> 💻 Work Hard -> :coffee: :coffee: :coffee: More Coffee -> 🍳 Cook -> 💪 Gym -> 😪 Rest
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edisonyls&" alt="edisonyls" />
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=edisonyls&label=Profile%20views&color=0e75b6&style=flat" alt="edisonyls" />
 </p>
